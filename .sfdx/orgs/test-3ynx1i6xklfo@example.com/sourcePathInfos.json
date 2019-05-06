@@ -1,0 +1,1284 @@
+[
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124365674,
+            "changeTime": 1557124365674,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124365674,
+            "changeTime": 1557124365674,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557128433149,
+            "changeTime": 1557128433149,
+            "contentHash": "381fcb71644a234f984f11204525aca77136e1c8"
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887125,
+            "changeTime": 1557124887125,
+            "contentHash": "0f324ff30429959b768a269e8cc982ab638c2574",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
+            "isDirectory": false,
+            "size": 1269,
+            "modifiedTime": 1557124887133,
+            "changeTime": 1557124887133,
+            "contentHash": "9622e94a9cc644a1752a065acda554626c986a21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557126990685,
+            "changeTime": 1557126993404,
+            "contentHash": "e2b8107157587620bbbcbdcfcab1115d7e2d9e23",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557126992962,
+            "changeTime": 1557126995002,
+            "contentHash": "046b15a995d673ba77c1902dd2e8ad4ad0794153",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+            "isDirectory": false,
+            "size": 1358,
+            "modifiedTime": 1557123228669,
+            "changeTime": 1557123228669,
+            "contentHash": "7b65cfda31160f1709284fb6b3fc9a7d436bb685",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1557123228581,
+            "changeTime": 1557123228581,
+            "contentHash": "ad7050acab8d4bcf276da1497889aff1939bd0bf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+            "isDirectory": false,
+            "size": 48,
+            "modifiedTime": 1557123228645,
+            "changeTime": 1557123228645,
+            "contentHash": "adc666af29ef78519608a7c6294650e15a0bbb97",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+            "isDirectory": false,
+            "size": 329,
+            "modifiedTime": 1557123228515,
+            "changeTime": 1557123228515,
+            "contentHash": "b05073bc489baf2feaae5bcb2f54004c711036d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+            "isDirectory": false,
+            "size": 1122,
+            "modifiedTime": 1557123228543,
+            "changeTime": 1557123228543,
+            "contentHash": "988b52ce6568058194e59353955353273c6683a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1557123228610,
+            "changeTime": 1557123228610,
+            "contentHash": "e04279ce255420ecd8fe43067d860403e6841981",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887175,
+            "changeTime": 1557124887175,
+            "contentHash": "93a9fd0d59c9d405e5e6dac34af5651e251d5eb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1557124887158,
+            "changeTime": 1557124887158,
+            "contentHash": "d3333b8ab3524c3adec23463294df8b5501a65d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1557124887145,
+            "changeTime": 1557124887145,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1557124887202,
+            "changeTime": 1557124887202,
+            "contentHash": "fd907305b468281de33b50328ae987f7e9c1f2bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1557124887170,
+            "changeTime": 1557124887170,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887280,
+            "changeTime": 1557124887280,
+            "contentHash": "f971012450e568018567163dba004aa1a797660a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
+            "isDirectory": false,
+            "size": 23382,
+            "modifiedTime": 1557124887294,
+            "changeTime": 1557124887294,
+            "contentHash": "6d5b29819c501c5f2dcf1960d7e62cb903a5ce20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 541,
+            "modifiedTime": 1557124887276,
+            "changeTime": 1557124887276,
+            "contentHash": "1387695cbfc76595b320445b57f8c2a2626a80cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887060,
+            "changeTime": 1557124887060,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5935,
+            "modifiedTime": 1557128433126,
+            "changeTime": 1557128433126,
+            "contentHash": "d103af838c4d3d6112ef5c048c2733e3cca9b033"
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887023,
+            "changeTime": 1557124887023,
+            "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3357,
+            "modifiedTime": 1557124887014,
+            "changeTime": 1557124887014,
+            "contentHash": "76fbc9f37d18c624a017d420e43d75e457682cc2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4383,
+            "modifiedTime": 1557124887034,
+            "changeTime": 1557124887034,
+            "contentHash": "398f5ff104edff59c828f372774bbbcacf1727fa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557125111539,
+            "changeTime": 1557125111539,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886444,
+            "changeTime": 1557124886444,
+            "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886319,
+            "changeTime": 1557124886319,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2018,
+            "modifiedTime": 1557124885693,
+            "changeTime": 1557124885693,
+            "contentHash": "23184b3ed1a8b2c8daf84f496b26e368e635f424",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124885695,
+            "changeTime": 1557124885695,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1557124885709,
+            "changeTime": 1557124885709,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886099,
+            "changeTime": 1557124886099,
+            "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1557124885718,
+            "changeTime": 1557124885718,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1557124885730,
+            "changeTime": 1557124885730,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1557124886080,
+            "changeTime": 1557124886080,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1557124886089,
+            "changeTime": 1557124886089,
+            "contentHash": "482283b0ac794fa83d28a8b6d061f8f46a02a0c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1557124886097,
+            "changeTime": 1557124886097,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1557124886105,
+            "changeTime": 1557124886105,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886323,
+            "changeTime": 1557124886323,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1557124886340,
+            "changeTime": 1557124886340,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886876,
+            "changeTime": 1557124886876,
+            "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886461,
+            "changeTime": 1557124886461,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1557124886467,
+            "changeTime": 1557124886467,
+            "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886862,
+            "changeTime": 1557124886862,
+            "contentHash": "29ceeb8fa30f8ece2d6f465924ff5579d1f80a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1557124886491,
+            "changeTime": 1557124886491,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1557124886509,
+            "changeTime": 1557124886509,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1557124886580,
+            "changeTime": 1557124886580,
+            "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1557124886601,
+            "changeTime": 1557124886601,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1557124886618,
+            "changeTime": 1557124886618,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1557124886633,
+            "changeTime": 1557124886633,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1557124886642,
+            "changeTime": 1557124886642,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1557124886658,
+            "changeTime": 1557124886658,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1557124886666,
+            "changeTime": 1557124886666,
+            "contentHash": "960800835ac37c31f81caea228bf48abf1c46285",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1557124886678,
+            "changeTime": 1557124886678,
+            "contentHash": "6849ac6ed9ff9d161a4081a614bf68034cb69d87",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1557124886689,
+            "changeTime": 1557124886689,
+            "contentHash": "bd592d5febc471d5b70fa14b321aeceb8ebdada9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1557124886698,
+            "changeTime": 1557124886698,
+            "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1557124886709,
+            "changeTime": 1557124886709,
+            "contentHash": "b91a9f6eaeb6624717c5372cb41cb331d577a83d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1557124886728,
+            "changeTime": 1557124886728,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1557124886736,
+            "changeTime": 1557124886736,
+            "contentHash": "29b86063a8f3495cee89c109ee5baa19e0bf8641",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1557124886746,
+            "changeTime": 1557124886746,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1557124886755,
+            "changeTime": 1557124886755,
+            "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1557124886781,
+            "changeTime": 1557124886781,
+            "contentHash": "66bc9b367bd030156dbc48ede4b4d98e33bf61f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1557124886789,
+            "changeTime": 1557124886789,
+            "contentHash": "6fa0fc10711ed0799dd611799172c9ee391cfab1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1557124886798,
+            "changeTime": 1557124886798,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1380,
+            "modifiedTime": 1557124886813,
+            "changeTime": 1557124886813,
+            "contentHash": "47e4c1697d198d7f0af4f9be9e4adbc239848bdf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1557124886822,
+            "changeTime": 1557124886822,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1557124886834,
+            "changeTime": 1557124886834,
+            "contentHash": "0ad52af63e43de0322dac7c3299c011a75561cfd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1557124886853,
+            "changeTime": 1557124886853,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1557124886861,
+            "changeTime": 1557124886861,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1557124886876,
+            "changeTime": 1557124886876,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124886877,
+            "changeTime": 1557124886877,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1557124886888,
+            "changeTime": 1557124886888,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 3370,
+            "modifiedTime": 1557124886459,
+            "changeTime": 1557124886459,
+            "contentHash": "b7bf6dbbe73f808ee616e30af01400590c9ee11a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124885627,
+            "changeTime": 1557124885627,
+            "contentHash": "a80c01d29abdebaa3ec23ce2af31ac6e0761811a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+            "isDirectory": false,
+            "size": 20142,
+            "modifiedTime": 1557124885647,
+            "changeTime": 1557124885647,
+            "contentHash": "f13563d0348bb85774aa87a0dda23d504cfd1ce1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1557124885613,
+            "changeTime": 1557124885613,
+            "contentHash": "563f8cc03ab26fae2dd530e2dcee613bb73e9554",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887231,
+            "changeTime": 1557124887231,
+            "contentHash": "e790bf51c03a2ab8137b34755957f7f33a25101f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 6538,
+            "modifiedTime": 1557124887250,
+            "changeTime": 1557124887250,
+            "contentHash": "8874fd3a78d6f63139dfe5f3949f93fef778db70",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557124887114,
+            "changeTime": 1557124887114,
+            "contentHash": "fda2cac10cefed405d678862a07da7434a22fc58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1557124887109,
+            "changeTime": 1557124887109,
+            "contentHash": "24677b40b89c6d3b1bdf2f5e7ebfbc0d1ebfd681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1557124887094,
+            "changeTime": 1557124887094,
+            "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1557124887119,
+            "changeTime": 1557124887119,
+            "contentHash": "0dc924ea679678792ab06e246c309a33ed62196a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan",
+        {
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557125560134,
+            "changeTime": 1557125560134,
+            "contentHash": "6615a1f78b0e19983048f74784fb46689d82fef9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25623,
+            "modifiedTime": 1557128433165,
+            "changeTime": 1557128433165,
+            "contentHash": "edbd7c2383b45f0b29719760b933831a77c8a671"
+        }
+    ],
+    [
+        "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\FORECASTERA INDIA\\sfdx-chan\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557128433164,
+            "changeTime": 1557128433164,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
